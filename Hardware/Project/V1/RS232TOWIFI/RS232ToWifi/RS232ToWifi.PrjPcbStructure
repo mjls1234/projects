@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=RS232ToWifi.SchDoc
+Record=SheetSymbol|SourceDocument=RS232ToWifi.SchDoc|Designator=ESP 12E/F|SchDesignator=ESP 12E/F|FileName=EspIC.SchDoc|SymbolType=Normal|RawFileName=EspIC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=RS232ToWifi.SchDoc|Designator=RS232|SchDesignator=RS232|FileName=Rs232IC.SchDoc|SymbolType=Normal|RawFileName=Rs232IC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=RS232ToWifi.SchDoc|Designator=Supply|SchDesignator=Supply|FileName=Supply.SchDoc|SymbolType=Normal|RawFileName=Supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
